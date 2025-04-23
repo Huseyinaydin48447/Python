@@ -9,5 +9,3 @@ services:
     envVars:
       - key: DJANGO_SETTINGS_MODULE
         value: catalog.settings
-      - key: PYTHON_VERSION
-        value: 3.11
