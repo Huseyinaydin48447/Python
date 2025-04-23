@@ -1,0 +1,20 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# SQLite database
+db.sqlite3
+
+# Virtual environment
+.venv/
+
+# Django migrations
+*/migrations/
+
+# Static files
+/staticfiles/
+
+# IDE config
+.idea/
+.vscode/
